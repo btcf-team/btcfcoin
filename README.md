@@ -1,7 +1,7 @@
 BtcfCoin Core staging tree 1.0.6
 ===============================
 
-https://www.btfc.cc
+http://www.btfc.cc
 
 Copyright (c) 2009-2020 Bitcoin Core Developers
 
