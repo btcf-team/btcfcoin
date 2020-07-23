@@ -1,7 +1,7 @@
 BtcfCoin Core staging tree 1.0.6
 ===============================
 
-https://www.btcf.cc
+https://www.btfc.cc
 
 Copyright (c) 2009-2020 Bitcoin Core Developers
 
@@ -20,7 +20,7 @@ are carried out collectively by the network. BtcfCoin Core is the name of open
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the BtcfCoin Core software, see http://www.btcf.cc.
+the BtcfCoin Core software, see http://www.btfc.cc.
 
 
 License
