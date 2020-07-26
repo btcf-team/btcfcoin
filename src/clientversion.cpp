@@ -13,7 +13,19 @@
  * for both dashd and dash-qt, to make it harder for attackers to
  * target servers or GUI users specifically.
  */
-const std::string CLIENT_NAME("BtcfCoin Core Win64");
+#ifdef WIN64
+const std::string CLIENT_NAME("BtcfCoin Win64");
+#else
+#ifdef WIN32
+const std::string CLIENT_NAME("BtcfCoin Win32");
+#else
+#ifdef MAC_OSX
+const std::string CLIENT_NAME("BtcfCoin Mac");
+#else
+const std::string CLIENT_NAME("BtcfCoin Linux");
+#endif
+#endif
+#endif
 
 /**
  * Client version number
