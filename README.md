@@ -1,4 +1,4 @@
-BtcfCoin Core staging tree 1.0.6
+BtcfCoin Core staging tree 1.0.7
 ===============================
 
 http://www.btfc.cc
